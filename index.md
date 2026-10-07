@@ -1,6 +1,7 @@
 ---
 title: Hinterlay Privacy Policy 
 ---
+<img src="logo.svg" alt="Hinterlay logo" width="96" height="96">
 
 # Hinterlay Privacy Policy
 
