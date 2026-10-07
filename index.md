@@ -6,7 +6,7 @@ title: Hinterlay Privacy Policy
 
 **Last updated:** 8 October 2026
 **Publisher:** Ashutosh Pandey
-**Contact:** [ashutosh.pandey@amzbizsol.in](mailto:ashutosh.pandey@amzbizsol.in)
+**Contact:** [ashutoshpandeyies@gmail.com](mailto:ashutoshpandeyies@gmail.com)
 
 Hinterlay is a photo editor for Android that puts text behind the subject of your photo. This policy explains what the app does with your information. The short version: **your photos stay on your phone.**
 
@@ -102,4 +102,4 @@ If this policy changes in a meaningful way, we will update the date at the top a
 
 ## 15. Contact
 
-Questions or requests: **Ashutosh Pandey**, [ashutosh.pandey@amzbizsol.in](mailto:ashutosh.pandey@amzbizsol.in)
+Questions or requests: **Ashutosh Pandey**, [ashutoshpandeyies@gmail.com](mailto:ashutoshpandeyies@gmail.com)
