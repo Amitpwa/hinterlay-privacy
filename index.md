@@ -1,5 +1,5 @@
 ---
-title: Hinterlay Privacy Policy
+title: Hinterlay Privacy Policy 
 ---
 
 # Hinterlay Privacy Policy
